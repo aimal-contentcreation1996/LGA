@@ -1,0 +1,179 @@
+/* 1300 */
+@media only screen and (max-width: 1397.5px) {
+	.main .box h1 {
+		padding-right: 80px;
+	}
+}
+
+/* 1257 */
+@media only screen and (max-width: 1257.5px) {
+	.main .box h1 {
+		padding-right: 50px;
+	}
+
+}
+
+/* 1200 */
+@media only screen and (max-width: 1200.5px) {
+	.navbar-brand {
+		margin-left: 1rem;
+	}
+
+	.main .box h1 {
+		padding-right: 30px;
+	}
+
+}
+
+/* 1160 */
+@media only screen and (max-width: 1160.5px) {
+	.main .box h1 {
+		padding-right: 0;
+	}
+
+	.borderless .box {
+		padding: 50px;
+	}
+
+}
+
+/* 991 */
+
+@media only screen and (max-width: 991.5px) {
+	nav ul li {
+		margin-right: 0;
+	}
+
+	.navbar-brand {
+		margin: auto;
+		padding-left: 45px;
+	}
+
+	.borderless {
+		margin-top: 25px;
+	}
+
+	.borderless .img {
+		border-radius: 0;
+		border-top-left-radius: 10px;
+		border-top-right-radius: 10px;
+	}
+
+	.borderless .box {
+		border-radius: 0;
+		border-bottom-left-radius: 10px;
+		border-bottom-right-radius: 10px;
+
+	}
+
+	.slider-1 .blue {
+		width: 50%;
+	}
+
+	.slider-2 {
+		margin-top: 30px;
+	}
+}
+
+/* 767 */
+@media only screen and (max-width: 767.5px) {
+	.contact-form .box .blue{
+		width: 100%;
+		margin-top: 25px;
+	}
+	.contact-form .box {
+		padding: 50px 20px;
+	}
+
+	.swiper-slide {
+		height: auto !important;
+	}
+
+	.slider-1 .box-1 {
+		padding: 30px 10px 0;
+		color: #fff;
+	}
+
+	.slider-2 .box-3 {
+		padding: 35px 25px;
+	}
+
+	.navbar {
+		top: 40px;
+		padding: 15px 0;
+	}
+
+	.main {
+		padding: 50px 30px;
+		margin-top: 165px;
+	}
+
+	.main .box {
+		padding: 0px;
+
+	}
+
+	.main .box .blue {
+		width: 100%;
+	}
+
+	.navbar-brand {
+		margin: auto;
+		padding-left: 40px;
+	}
+
+	.slider-1 .box {
+		text-align: left;
+		width: auto;
+		padding: 50px 20px 10px;
+	}
+}
+
+/* 575 */
+@media only screen and (max-width: 575.5px) {
+	.contact-form{
+		margin: 20px 10px;
+	}
+	.main {
+		padding: 30px 10px;
+		background-position: top;
+		background-size: contain;
+		margin: 160px 10px 10px;
+	}
+
+	.main .box {
+		padding: 0px;
+
+	}
+
+	.borderless {
+		margin: 25px 0 15px;
+	}
+
+	.borderless .box {
+		padding: 25px;
+	}
+
+	.slider-1 {
+		margin: 10px;
+	}
+
+	.slider-1 .blue {
+		width: 100%;
+	}
+
+	.slider-1 .box {
+		padding: 30px 10px 0;
+	}
+
+	.slider-1 .box h1 {
+		font-size: 2.1rem;
+	}
+}
+
+/* 400 */
+@media only screen and (max-width: 400.5px) {
+	.main .box h1 {
+		font-size: 1.7rem;
+	}
+}
