@@ -202,7 +202,7 @@ nav ul li .button {
   border-radius: 15px;
   padding: 30px 15px 0;
   position: absolute;
-  bottom: 100px;
+  bottom: 50px;
   margin: 20px;
   z-index: 999999999;
 }
@@ -227,6 +227,18 @@ nav ul li .button {
   flex-direction: column;
   height: 100%;
 }
+.slider-2 .box-3 .scroll-height .nav-pills .nav-item {
+  width: 100%;
+}
+.slider-2 .box-3 .scroll-height .nav-pills .nav-item .nav-link {
+  color: #fff;
+  opacity: 0.5;
+}
+.slider-2 .box-3 .scroll-height .nav-pills .nav-item .nav-link.active {
+  background-color: transparent !important;
+  color: #fff;
+  opacity: 1;
+}
 
 .slider-3 {
   background-color: #000;
@@ -237,7 +249,7 @@ nav ul li .button {
   height: auto !important;
 }
 .slider-3 .p2 {
-  color: #7C7C7C;
+  color: #7c7c7c;
   font-size: 15px;
   font-weight: 100;
   margin: 0;
